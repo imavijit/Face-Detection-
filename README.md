@@ -1,2 +1,2 @@
-# Face-Detection-
+# Face-Detection
 Using HaarCascade classifier.
